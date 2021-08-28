@@ -3,7 +3,7 @@ class Solution {
         long answer = -1;
         
         //여기서부터 풀이
-        int sum = 0;
+        long sum = 0L;
         for(int i=1; i<=count; i++){
             sum += price*i; 
             System.out.print("sum:"+sum);
