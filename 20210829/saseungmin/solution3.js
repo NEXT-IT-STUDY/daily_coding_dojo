@@ -1,5 +1,6 @@
 function solution(progresses, speeds) {
   const answer = [];
+
   return answer;
 }
 
